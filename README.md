@@ -1,5 +1,5 @@
-# autoTube
-autoTube is a program to automatically make Reddit TTS YouTube Shorts. 
+# redditTube
+redditTube is a program to automatically make Reddit TTS YouTube Shorts. 
 
 # Requirements
 1) praw
@@ -18,6 +18,6 @@ The Reddit app has been created. Note down the client_id, secret, and user_agent
 
 # Running the script
 After you've setup your reddit app and put in you client_id, secret, and user_agent. Make sure you have a video saved in the working directory saved as "basevideo.mp4". You can then run the script like any other python script.
-> $ python autotube.py
+> $ python reddittube.py
 
 From there your final video will be saved as "final.mp4" along with several other mp3 files for debugging.
