@@ -3,3 +3,4 @@ pandas~=1.4.2
 gTTS~=2.2.4
 moviepy~=1.0.3
 mutagen~=1.45.1
+selenium~=4.1.3
