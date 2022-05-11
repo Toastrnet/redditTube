@@ -1,3 +1,4 @@
+# OUTDATED
 # redditTube
 redditTube is a program to automatically make Reddit TTS YouTube Shorts. 
 
@@ -21,3 +22,5 @@ After you've setup your reddit app and put in you client_id, secret, and user_ag
 > $ python reddittube.py
 
 From there your final video will be saved as "final.mp4" along with several other mp3 files for debugging.
+
+# OUTDATED
